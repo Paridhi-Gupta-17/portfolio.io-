@@ -1,4 +1,4 @@
-# Paridhi Gupta's Portfolio
+# QA Engineer
 
 [![Click me to see my Portfolio!](https://img.shields.io/badge/Click%20me%20to%20see%20my%20Portfolio-black?style=for-the-badge&logo=github&color=28a745)](https://paridhi-gupta-17.github.io/paridhi.io/)  
 
