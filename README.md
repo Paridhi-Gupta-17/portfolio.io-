@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a QA Engineer with 2 years of experience in softwa
 
 ---
 
-## 📞 Contact
+# 📞 Contact
 - **Phone**: +91-7208465894
 - **Location**: Mumbai, India
 - **Email**: [paridhigupta4445@gmail.com](mailto:paridhigupta4445@gmail.com)
