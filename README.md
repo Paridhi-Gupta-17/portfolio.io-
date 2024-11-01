@@ -13,7 +13,6 @@ Welcome to my portfolio! I am a QA Engineer with 2 years of experience in softwa
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
 - **GitHub**: [Your GitHub](https://github.com/your-username)
 
-# Portfolio
 
 ## About Me
 I am a positive-thinking person who possesses a balance of analytical skills and strong interpersonal abilities. My organized, structured, and detail-oriented approach stems from my background as a cloud engineer and data scientist. I thrive on solving problems and collaborating with others.
