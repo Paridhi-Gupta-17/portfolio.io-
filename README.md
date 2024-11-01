@@ -4,12 +4,6 @@
 
 Welcome to my portfolio! I am a QA Engineer with 2 years of experience in software testing, particularly with client-server and web-based applications. I specialize in manual and automation testing, with a focus on quality and reliability.
 
----
-
-
-
-Welcome to my portfolio! I am a QA Engineer with 2 years of experience in software testing, particularly with client-server and web-based applications. I specialize in manual and automation testing, with a focus on quality and reliability.
-
 
 ---
 
