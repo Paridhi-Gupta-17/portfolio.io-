@@ -14,68 +14,109 @@ Welcome to my portfolio! I am a QA Engineer with 2 years of experience in softwa
 - **GitHub**: [Your GitHub](https://github.com/your-username)
 
 
-## 🎯 Objective
-QA Engineer with a focus on ensuring quality and functionality compliance in client-server and web-based applications. I am skilled in both manual and automation testing, with experience in various testing types to ensure system robustness.
+# Portfolio 🌟
 
+## About Me 👤
+I am a positive-thinking person who possesses a balance of analytical skills and strong interpersonal abilities. My organized, structured, and detail-oriented approach stems from my background as a Technical Associate and Data Scientist. I thrive on solving problems and collaborating with others.
 
+I hold a Master's degree in Information Technology from the University of Mumbai and have worked as a Cloud Engineer and Data Scientist. My experience spans over two years in managing cloud infrastructure, automation, and software testing, focusing on enhancing system performance and reliability.
 
-## 🧑‍💼 Work Experience
-**QA Engineer** | Tri-Gate Consulting, Bangalore  
-_August 2022 – July 2024_
+Now, I aim to leverage my technical and analytical skills in software testing. Currently, I am intensively studying testing methodologies and tools through online courses and applying my knowledge to real-world projects.
 
-- **Expertise**: Manual testing of web applications with hands-on experience in Selenium for automation testing and API testing, ensuring backend service reliability.
-- **Knowledge**: Proficient in SDLC and STLC; implemented agile methodologies and used JIRA for sprint tracking, achieving a 30% reduction in testing time.
-- **Skills**: Experienced in test case design and execution, defect tracking with JIRA, and database validation using SQL.
-- **Testing Types**: Proficient in Black Box Testing, Functional Testing, System Testing, Regression Testing, and API Testing, with a 90% success rate in identifying critical defects.
-- **Collaboration**: Regularly presented defect reports and collaborated effectively with development teams using Java, resulting in a reduction of turnaround time for defect fixes.
+I am eager to gain hands-on experience in testing operational products, a crucial step towards my career goal of becoming a mid-level software tester in the next two years.
 
+## CV 📄
+You can download my CV as a PDF from my [Google Drive](#).
 
-## 📂 Projects Profile
+## Skills 🛠️
+You can find examples of the described skills in the **Examples of My Work** section.
 
-### 1. Banking Platform for Loan Management
-**Duration**: August 2022 – February 2023 (7 months)  
-**Details**: Conducted end-to-end testing to ensure regulatory compliance and secure transactions, enhancing system reliability by addressing critical defects.
+### Manual Testing
+- ✅ Can perform manual functional and usability testing of web applications.
+- 🛠️ Gained hands-on experience by testing applications created for educational purposes.
 
-### 2. Platform for Connecting Newborns to Audiologists
-**Duration**: March 2023 – May 2023 (3 months)  
-**Details**: Developed and executed test cases to optimize platform performance, reducing user-reported issues and improving user experience.
+### Test Analysis & Design
+- 📊 Familiar with functional decomposition of products, creating state transition diagrams, and writing use cases.
+- ⚙️ Can apply equivalence partitioning, boundary value analysis, and methods of pairwise testing to generate test input data.
 
-### 3. Cloud Infrastructure Testing
-**Duration**: June 2023 – October 2023 (5 months)  
-**Details**: Tested cloud services for performance and security, increasing resilience under high traffic.
+### API Testing
+- 🔄 Knowledgeable about the differences between SOAP and REST APIs.
+- 🧪 Gained experience through manual testing of APIs created for educational purposes.
+- 📋 Proficient in manipulating requests and creating test cases using the SoapUI tool.
 
-### 4. Banking App for Transaction Processing
-**Duration**: November 2023 – April 2024 (6 months)  
-**Details**: Performed functional and regression testing, enhancing data integrity and transaction processing efficiency.
+### Exploratory Testing
+- 🔍 Capable of using Whittaker’s test tours and creating cheat lists for testing web applications.
 
-### 5. E-commerce Platform (Travel Based)
-**Duration**: May 2024 – August 2024 (4 months)  
-**Details**: Conducted comprehensive testing for a travel booking platform, improving user satisfaction and platform stability.
+### Test Documentation
+- 📝 Can create test cases and checklists, understanding when and how to use them effectively.
+- 🐞 Able to prepare comprehensive bug reports and provide detailed session reports.
 
+### SQL Databases
+- 📊 Can write complex queries using subqueries.
+- 🔑 Familiar with the use of aliases and wildcards.
+- ➕ Understand the difference between joins and unions and can use them in queries.
 
+### Python Fundamentals
+- 🐍 Can write simple functions and algorithms.
+- 🔄 Understand when to use `for` and `while` loops.
+- 📜 Able to comprehend basic code.
 
-## 🛠️ Skills
+## Tools 🧰
+### TestRail
+- ✔️ Know how to create test cases and test suites.
+- 🚀 Able to run created test cases.
+- 📈 Familiar with using dashboards and statistics.
 
-- **Technical Skills**: Java, SQL, Manual Testing, API Testing, Selenium, Postman, Cucumber, JIRA, HTML, CSS
-- **Techniques**: Manual Testing, API Testing, Bug Reporting, Automation Testing, Documentation
+### Jira
+- 🐛 Know how to create bug reports.
+- 📊 Able to create projects and track their progress.
 
+### SoapUI
+- 📱 Proficient in using for API testing.
 
+### Browser Developer Tools
+- 🌐 Comfortable with using browser tools for testing.
 
-## 🎓 Certifications
+### VirtualBox
+- 💻 Able to set up and operate virtual machines.
 
-- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
-- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+### Trello and Notion
+- 📅 Know how to use Kanban boards and track project progress.
 
+### Mind Maps & Diagrams
+- 🗺️ Skilled at designing simple and effective mind maps.
 
-## 📘 Education
+## Courses 🎓
+- **Robot Framework Test Automation, Levels 1-4**  
+  Online course by Bryan Lamb, Udemy  
+  An intensive course in test automation with Robot Framework.  
+  Link to the certificate of Level 1; Level 2-4 in progress.
 
-- **MSc in Information Technology**  
-  _University of Mumbai_  
-  CGPA: 9.00/10.00 | June 2021 – June 2023
+- **The 1st Online Institute of Software Testing**  
+  Online course by Quality Lab, Moscow, Russia  
+  A comprehensive course (132 hours) in quality assurance, covering skills in functional testing and test automation.  
+  Link to the certificate.
 
-- **BSc in Computer Science**  
-  _SK College_  
-  CGPA: 7.9/10.00 | August 2018 – May 2021
+- **Onboarding to Testing · Jedi Point**  
+  Online course by Quality Lab, Moscow, Russia  
+  An intensive introductory course (20 hours) to software testing.
+
+## Examples of My Work 💼
+### Test Cases and Work in TestRail
+- 📋 Created demo test cases for various web applications used for educational purposes.
+
+### Bug Reports and Work in Jira
+- 🐞 Documented bugs found on training web applications and reported them using Jira.
+
+### Mind Maps and Diagrams
+- 🗂️ Developed functional decomposition and state-transition diagrams for testing purposes.
+
+### Scripts for PICT (Pairwise Testing)
+- 🧪 Generated test case combinations for forms with dependencies using PICT scripts.
+
+### Books I Have Read 📚
+- "Testing Dot Com" by R. Savin (2017) - A great book for beginners explaining the fundamental goals and techniques in software testing.
+- "A Practitioner's Guide to Software Test Design" by Lee Copeland (2004) - A comprehensive explanation of fundamental techniques and approaches used in software testing.
 
 
 
