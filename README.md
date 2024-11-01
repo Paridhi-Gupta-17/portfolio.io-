@@ -120,6 +120,7 @@ You can find examples of the described skills in the **Examples of My Work** sec
 
 
 
+
 ## 🌐 Portfolio Website
 Check out my [Portfolio Website](https://paridhi-gupta-17.github.io/paridhi.io/) for more details on my projects and experience.
 
