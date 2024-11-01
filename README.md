@@ -1,10 +1,7 @@
 # Paridhi Gupta's Portfolio
 
-<a href="https://paridhi-gupta-17.github.io/paridhi.io/" style="text-decoration: none;">
-    <div style="background-color: #28a745; color: black; padding: 15px; text-align: center; font-size: 18px; border-radius: 5px; width: 250px; margin: auto;">
-        Click me to see my Portfolio!
-    </div>
-</a>  
+[![Click me to see my Portfolio!](https://img.shields.io/badge/Click%20me%20to%20see%20my%20Portfolio-black?style=for-the-badge&logo=github)](https://paridhi-gupta-17.github.io/paridhi.io/)  
+⬇️⬇️⬇️
 
 Welcome to my portfolio! I am a QA Engineer with 2 years of experience in software testing, particularly with client-server and web-based applications. I specialize in manual and automation testing, with a focus on quality and reliability.
 
